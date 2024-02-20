@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Testerhubplayer/Ability-wars/main/Ability%20wars%20tester%20V6
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Testerhubplayer/Ability-wars/main/Ability%20wars%20tester%20V6"))()
