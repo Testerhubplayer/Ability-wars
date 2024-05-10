@@ -4,5 +4,5 @@ if games[game.PlaceId] then
   getgenv().TesterLib = 'https://raw.githubusercontent.com/Giangplay/Script/main/Orion_Library_PE_V2.lua'
   loadstring(game:HttpGetAsync(games[game.PlaceId]))() 
 else 
-  warn("Voxul currently does not support this experience!") 
+  warn("Tester hub currently does not support this experience!") 
 end
