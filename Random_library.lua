@@ -1,4 +1,4 @@
-local HubName = "Destroyer Hub"
+local HubName = "Tester Hub"
 
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
